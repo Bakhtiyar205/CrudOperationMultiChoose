@@ -213,6 +213,9 @@ namespace FrontToBack.Areas.AdminArea.Controllers
         public async Task<IActionResult> Detail(int id)
         {
             Slider slider = await _context.Sliders.FindAsync(id);
+
+            if (slider is null) return NotFound();
+
             return View(slider);
         }
 

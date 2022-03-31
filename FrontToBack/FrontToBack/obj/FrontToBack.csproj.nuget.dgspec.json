@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Baxtiyar\\Documents\\Code Academy Back Asp\\Lesson12Pagination\\FrontToBack\\FrontToBack\\FrontToBack.csproj": {}
+    "C:\\Users\\Baxtiyar\\Documents\\Code Academy Back Asp\\Lesson11CrudUpdaterView\\FrontToBack\\FrontToBack\\FrontToBack.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Baxtiyar\\Documents\\Code Academy Back Asp\\Lesson12Pagination\\FrontToBack\\FrontToBack\\FrontToBack.csproj": {
+    "C:\\Users\\Baxtiyar\\Documents\\Code Academy Back Asp\\Lesson11CrudUpdaterView\\FrontToBack\\FrontToBack\\FrontToBack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Baxtiyar\\Documents\\Code Academy Back Asp\\Lesson12Pagination\\FrontToBack\\FrontToBack\\FrontToBack.csproj",
+        "projectUniqueName": "C:\\Users\\Baxtiyar\\Documents\\Code Academy Back Asp\\Lesson11CrudUpdaterView\\FrontToBack\\FrontToBack\\FrontToBack.csproj",
         "projectName": "FrontToBack",
-        "projectPath": "C:\\Users\\Baxtiyar\\Documents\\Code Academy Back Asp\\Lesson12Pagination\\FrontToBack\\FrontToBack\\FrontToBack.csproj",
+        "projectPath": "C:\\Users\\Baxtiyar\\Documents\\Code Academy Back Asp\\Lesson11CrudUpdaterView\\FrontToBack\\FrontToBack\\FrontToBack.csproj",
         "packagesPath": "C:\\Users\\Baxtiyar\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Baxtiyar\\Documents\\Code Academy Back Asp\\Lesson12Pagination\\FrontToBack\\FrontToBack\\obj\\",
+        "outputPath": "C:\\Users\\Baxtiyar\\Documents\\Code Academy Back Asp\\Lesson11CrudUpdaterView\\FrontToBack\\FrontToBack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Baxtiyar\\AppData\\Roaming\\NuGet\\NuGet.Config",

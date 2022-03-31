@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "u1epb1OfUfQP8+fbn1GOL8f6Ci59lDRcjRE/AVneGUDBfgQvUnnzBLlg05FD3vbGVA54quOCzTzC9o2X/0/kTA==",
+  "dgSpecHash": "54J2maXejxuXmA6YPkJpAqNY04TSuqmk5sc8bdemg/U1F/Dg6B8Zxbxo9ABeW485ejh9RF1+5M/9giS6m85L2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Baxtiyar\\Documents\\Code Academy Back Asp\\Lesson12Pagination\\FrontToBack\\FrontToBack\\FrontToBack.csproj",
+  "projectFilePath": "C:\\Users\\Baxtiyar\\Documents\\Code Academy Back Asp\\Lesson11CrudUpdaterView\\FrontToBack\\FrontToBack\\FrontToBack.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Baxtiyar\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\Baxtiyar\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
