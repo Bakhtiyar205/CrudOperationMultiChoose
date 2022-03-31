@@ -210,5 +210,11 @@ namespace FrontToBack.Areas.AdminArea.Controllers
             return RedirectToAction(nameof(Index));
         }
 
+        public async Task<IActionResult> Detail(int id)
+        {
+            Slider slider = await _context.Sliders.FindAsync(id);
+            return View(slider);
+        }
+
     }
 }
